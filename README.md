@@ -34,8 +34,8 @@ python play.py
 
 ## Resources: 
 [https://github.com/geohot/twitchchess]
+[https://lumbrasgigabase.com/en/download-in-pgn-format-en/] - For data to train. 
+
 ## License
-
 MIT License
-
 ---
