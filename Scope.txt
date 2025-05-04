@@ -1,0 +1,8 @@
+Why and how does the server actually pick what move? 
+
+* Value function in play.py/ClassicValuator, plenty of room for improvement.
+* Add Quiescence search to play decent endgame 
+* Roll out search beyond 1-ply
+* Make trainer multi GPU
+* Train on more data
+* Add RL self play learning support

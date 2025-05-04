@@ -1,0 +1,58 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Data and model files
+data/
+more_data/
+processed/
+nets/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Compiled C extensions
+*.so
+
+# PyTorch/TensorFlow checkpoints
+*.pth
+*.ckpt
+
+# VSCode settings
+.vscode/
+
+# Flask cache
+instance/
+.webassets-cache
+
+# Static files (if generated)
+static/img/
+
+# Ignore large PGN and dataset files, but keep scripts and configs
+!data/.gitkeep
+!more_data/.gitkeep
+!processed/.gitkeep
+!nets/.gitkeep
+
+# Ignore any secret or config files
+*.env
+.env.*
+
+# Ignore backup files
+*~
+*.bak
