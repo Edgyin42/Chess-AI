@@ -19,7 +19,6 @@ A simple chess engine and web interface using minimax search and a classic evalu
 - Pytorch 
 
 Install dependencies with:
-
 ```bash
 pip install flask python-chess numpy torch
 ```
